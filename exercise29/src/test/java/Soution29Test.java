@@ -6,6 +6,14 @@ import org.junit.jupiter.api.Test;
 
 class Solution29Test {
 
-// Not required - You do not need to create unit tests for methods that only print, only scan input, or only print a prompt and then scan input
+    @Test
+    @DisplayName("Testing isValid()")
+    void solutionTest1() {
+        Assertions.assertEquals(0,Solution29.isValid("0"));
+        Assertions.assertEquals(0,Solution29.isValid("ABC"));
+        Assertions.assertEquals(0,Solution29.isValid("12..1"));
+        Assertions.assertEquals(1,Solution29.isValid("12.1"));
+        Assertions.assertEquals(1,Solution29.isValid("4"));
+    }
 
 }
