@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="baseline.Solution32Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-06T22:26:49" hostname="PARKER-DESKTOP" time="0.012">
+  <properties/>
+  <testcase name="Testing isValid()" classname="baseline.Solution32Test" time="0.012"/>
+  <system-out><![CDATA[Sorry. That's not a valid input. Try again: Sorry. That's not a valid input. Try again: ]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
