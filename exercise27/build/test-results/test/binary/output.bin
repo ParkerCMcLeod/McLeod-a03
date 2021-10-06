@@ -1,0 +1,9 @@
+4The first name must be at least 2 characters long.
+4The first name must be at least 2 characters long.
+#The first name must be filled in.
+3The last name must be at least 2 characters long.
+3The last name must be at least 2 characters long.
+"The last name must be filled in.
+3The employee ID must be in the format of AA-1234.
+'The zipcode must be a 5 digit number.
+'The zipcode must be a 5 digit number.

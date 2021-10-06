@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="baseline.Solution27Test" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-10-06T05:07:15" hostname="PARKER-DESKTOP" time="0.016">
+  <properties/>
+  <testcase name="Test first name inputs" classname="baseline.Solution27Test" time="0.013"/>
+  <testcase name="Test last name inputs" classname="baseline.Solution27Test" time="0.001"/>
+  <testcase name="Test ID inputs" classname="baseline.Solution27Test" time="0.001"/>
+  <testcase name="Test ZIP inputs" classname="baseline.Solution27Test" time="0.001"/>
+  <system-out><![CDATA[The first name must be at least 2 characters long.
+The first name must be at least 2 characters long.
+The first name must be filled in.
+The last name must be at least 2 characters long.
+The last name must be at least 2 characters long.
+The last name must be filled in.
+The employee ID must be in the format of AA-1234.
+The zipcode must be a 5 digit number.
+The zipcode must be a 5 digit number.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
