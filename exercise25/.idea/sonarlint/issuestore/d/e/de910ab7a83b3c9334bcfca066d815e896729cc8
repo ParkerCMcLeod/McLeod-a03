@@ -1,0 +1,11 @@
+
+n
+java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÍÏ8°®éšÅ/
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(ÿæ¤â
+N	java:S106O"9Replace this use of System.out or System.err by a logger.(«ğ¿ó
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(œƒÁ‘ÿÿÿÿÿ
+N	java:S106U"9Replace this use of System.out or System.err by a logger.(„—íĞ
+Z
+java:S2589@"8Remove this expression which always evaluates to "false"(£…º„ÿÿÿÿÿ8Û®éšÅ/
+Y
+java:S2589="7Remove this expression which always evaluates to "true"(Ä¥şÿÿÿÿ8Ü®éšÅ/
