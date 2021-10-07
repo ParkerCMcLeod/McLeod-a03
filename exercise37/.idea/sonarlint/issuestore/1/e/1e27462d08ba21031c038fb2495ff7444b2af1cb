@@ -1,0 +1,22 @@
+
+`	java:S112 "FDefine and throw a dedicated exception instead of using a generic one.(›˜“‡ûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ë«©„ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(²Åß
+S	java:S106"9Replace this use of System.out or System.err by a logger.(·ƒ³§ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ûþö­
+N	java:S106("9Replace this use of System.out or System.err by a logger.(Âœòé
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(ÍáÜüÿÿÿÿ8¶ªÔÂÅ/
+9
+java:S21192"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+9
+java:S2119;"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+9
+java:S2119E"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(×¥Áœ
+x
+java:S4165#"bRemove this useless assignment; "list" already holds the assigned value along all execution paths.(›©ÑÑ
+}
+java:S4165$"bRemove this useless assignment; "list" already holds the assigned value along all execution paths.(á™Ô…ÿÿÿÿÿ
+}
+java:S4165""bRemove this useless assignment; "list" already holds the assigned value along all execution paths.(ßè¬´øÿÿÿÿ
