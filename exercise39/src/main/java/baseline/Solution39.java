@@ -9,7 +9,11 @@ public class Solution39 {
 
     public static void main(String[] args) {
         /*
-
+            Create class Record that stores Strings 'firstName','lastName','department',and 'seperationDate'
+            Create 'recordArray' filled with Records of sample data
+            Create 'recordArraySorted' the size of recordArray
+            sort each of the records using quicksort and copying the array
+            print the sorted records
          */
         Record[] recordArray = {
                 new Record("John", "Johnson", "Manager", "2016-12-31"),
@@ -25,9 +29,8 @@ public class Solution39 {
 
         for (int i = 0; i < Record.numRecords; i++) {
             int position = 0;
-            Record currentRecord = recordArray[i];
             for (int j = 0; j < Record.numRecords; j++) {
-                 if(currentRecord.lastName.compareTo(recordArray[j].lastName) < 0) {
+                 if(recordArray[i].lastName.compareTo(recordArray[j].lastName) > 0) {
                      position++;
                  }
             }
@@ -36,9 +39,9 @@ public class Solution39 {
 
         System.out.println("Name                | Position          | Separation Date");
         System.out.println("--------------------|-------------------|----------------");
-        for (int i = Record.numRecords-1; i > -1; i--) {
-            String temp = recordArray[i].firstName + " " + recordArray[i].lastName;
-            System.out.printf("%-20.20s| %-18.18s| %-20.20s%n",temp,recordArray[i].department,recordArray[i].seperationDate);
+        for (int i = 0; i < Record.numRecords; i++) {
+            String temp = recordArraySorted[i].firstName + " " + recordArraySorted[i].lastName;
+            System.out.printf("%-20.20s| %-18.18s| %-20.20s%n",temp,recordArraySorted[i].department,recordArraySorted[i].seperationDate);
         }
 
     }
