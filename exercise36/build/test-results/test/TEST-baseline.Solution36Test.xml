@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="baseline.Solution36Test" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-10-07T00:47:39" hostname="PARKER-DESKTOP" time="0.016">
+  <properties/>
+  <testcase name="Testing isValid()" classname="baseline.Solution36Test" time="0.013"/>
+  <testcase name="Testing average()" classname="baseline.Solution36Test" time="0.001"/>
+  <testcase name="Testing min()" classname="baseline.Solution36Test" time="0.0"/>
+  <testcase name="Testing max()" classname="baseline.Solution36Test" time="0.001"/>
+  <testcase name="Testing standardDeviation()" classname="baseline.Solution36Test" time="0.0"/>
+  <system-out><![CDATA[Sorry. That's not a valid input.
+Sorry. That's not a valid input.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
