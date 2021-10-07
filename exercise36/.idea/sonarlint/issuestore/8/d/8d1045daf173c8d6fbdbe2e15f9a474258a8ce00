@@ -1,0 +1,26 @@
+
+1
+java:S3626E"Remove this redundant jump.(ÉŠ©ƒ
+Q	java:S125"<This block of commented-out lines of code should be removed.(îØí
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(ÖáõÓ
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(åœ±íùÿÿÿÿ
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(¼­Ìª
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(öì‰úùÿÿÿÿ
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(éÚÚ‡ûÿÿÿÿ
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(é¯÷ïÿÿÿÿÿ
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(ÆƒÉÒ
+U	java:S106R"9Replace this use of System.out or System.err by a logger.(§Ž¤Ä8ûâÇÁÅ/
+V	java:S106‘"9Replace this use of System.out or System.err by a logger.(±±›8¤ÚÈÁÅ/
+s	java:S135?"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ
+~
+java:S1319V"hThe type of "numArray" should be an interface such as "List" rather than the implementation "ArrayList".(ÄœäÊ
+ƒ
+java:S1319_"hThe type of "numArray" should be an interface such as "List" rather than the implementation "ArrayList".(ÿÔ½·úÿÿÿÿ
+ƒ
+java:S1319i"hThe type of "numArray" should be an interface such as "List" rather than the implementation "ArrayList".(Þ—§ôÿÿÿÿÿ
+ƒ
+java:S1319s"hThe type of "numArray" should be an interface such as "List" rather than the implementation "ArrayList".(§Ò™…üÿÿÿÿ
+z
+java:S1488["_Immediately return this expression instead of assigning it to the temporary variable "average".(¿Öÿûÿÿÿÿ
+‹
+java:S1488~"iImmediately return this expression instead of assigning it to the temporary variable "standardDeviation".(ŽÐþÿÿÿÿ8ŽÁÈÁÅ/
