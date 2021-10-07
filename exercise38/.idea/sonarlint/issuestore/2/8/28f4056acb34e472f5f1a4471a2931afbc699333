@@ -1,0 +1,14 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ããœÎøÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(µÛû¾
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(‡åÀ¶
+F
+java:S1128	"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(çÔ‹¶şÿÿÿÿ
+t
+java:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŸÊÕ¦ıÿÿÿÿ
+’
+java:S1319+"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(´šµ³øÿÿÿÿ8”¡ÜÄÅ/
+†
+java:S1319+"dThe type of "list" should be an interface such as "List" rather than the implementation "ArrayList".(´šµ³øÿÿÿÿ8”¡ÜÄÅ/
